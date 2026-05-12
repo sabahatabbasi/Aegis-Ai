@@ -1,0 +1,34 @@
+{
+  "objects": [
+    {
+      "type": "attack-pattern",
+      "name": "Credential Stuffing",
+      "external_references": [
+        {
+          "source_name": "mitre-attack",
+          "external_id": "T1110"
+        }
+      ]
+    },
+    {
+      "type": "attack-pattern",
+      "name": "SQL Injection",
+      "external_references": [
+        {
+          "source_name": "mitre-attack",
+          "external_id": "T1190"
+        }
+      ]
+    },
+    {
+      "type": "attack-pattern",
+      "name": "Phishing",
+      "external_references": [
+        {
+          "source_name": "mitre-attack",
+          "external_id": "T1566"
+        }
+      ]
+    }
+  ]
+}
